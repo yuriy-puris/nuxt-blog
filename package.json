@@ -19,6 +19,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.4",
     "nuxt": "^2.14.6",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
     "vue-markdown": "^2.2.4"
   },
   "devDependencies": {
